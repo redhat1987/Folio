@@ -1,0 +1,94 @@
+
+
+.mediaViewInfo {
+		--web-view-name: Web 1920 – 3;
+		--web-view-id: Web_1920___3;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Web_1920___3;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920___3 {
+		position: absolute;
+		width: 1280px;
+		height: 800px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 3;
+		--web-view-id: Web_1920___3;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 1920px;
+		height: 346px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 346px;
+		left: 0px;
+		top: 0px;
+	}
+	#ID3D_Artist {
+		position: absolute;
+		left: 1282px;
+		top: 107px;
+		overflow: visible;
+		width: 348px;
+		height: 111px;
+		text-align: left;
+		font-family: DM Serif Display;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 80px;
+		color: rgba(255,255,255,1);
+	}
+	#Designer {
+		position: absolute;
+		left: 306px;
+		top: 86px;
+		overflow: hidden;
+		width: 333px;
+		height: 127px;
+		text-align: left;
+		font-family: DM Serif Display;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 100px;
+		color: rgba(255,255,255,1);
+	}
+	#Asset_4_4x {
+		position: absolute;
+		width: 248px;
+		height: 343px;
+		left: 836px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Isira_Pandula {
+		position: absolute;
+		left: 134px;
+		top: 456px;
+		overflow: visible;
+		width: 1753px;
+		height: 528px;
+		text-align: left;
+		font-family: DM Serif Display;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 300px;
+		color: rgba(0,0,0,1);
+	}
